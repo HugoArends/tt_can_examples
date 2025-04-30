@@ -1,0 +1,5 @@
+ExitOnError 1
+r
+h
+loadfile C:\_ha\workspaces\tt_can_vscode\frdmmcxn947_node_001\armgcc\debug\flexcan_interrupt_transfer_cm33_core0.hex
+qc

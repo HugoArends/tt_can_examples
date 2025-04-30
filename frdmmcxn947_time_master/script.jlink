@@ -1,0 +1,5 @@
+ExitOnError 1
+r
+h
+loadfile C:\_ha\workspaces\tt_can\frdmmcxn947_time_master\armgcc\debug\frdmmcxn947_time_master_cm33_core0.hex
+qc
